@@ -5,7 +5,9 @@ Explorando alguns conceitos com python Tkinter utilizando de uns mini-projetinho
 Em resumo, queria testar interface gráfica com isso por ser algo bastante simples em comparação a outras GUI
 
 # Exemplo A
-Um joguinho parecido com pong, de bater bola.
+Um joguinho parecido com pong, de bater bola. 
+
+INFORMAÇÃO IMPORTANTE: O código está em .rar porque utilizei de imagem no background, e para ficar mais organizado, preferi upar dessse modo.
 
 # Exemplo B 
 Um toca música que utiliza dos bindings e da interface do tkinter, além do winsound.
