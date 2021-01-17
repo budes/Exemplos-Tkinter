@@ -13,5 +13,7 @@ Um toca música que utiliza dos bindings e da interface do tkinter, além do win
 # Exemplo C
 Um jogo da cobrinha bem massinha. Teve uns bugzinhos que ocorreu que foram tão engraçados que salvei na pasta "bugados", recomendo ver.
 
+INFORMAÇÃO IMPORTANTE: O script constantes.py é necessário para o funcionamento do C.py. 
+
 # Exemplo D
 Uma calculadora simples, baseada na do Samsung J5, porque era a única que eu lembrei na hora.
