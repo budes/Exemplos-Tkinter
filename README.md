@@ -14,10 +14,16 @@ INFORMAÇÃO IMPORTANTE: A imagem Estrelas deve estar na mesma pasta do código.
 # Exemplo B 
 Um toca música que utiliza dos bindings e da interface do tkinter, além do winsound.
 
+![imagemB](https://github.com/budes/Exploracao-Tkinter/blob/main/Exemplos/B.png)
+
 # Exemplo C
 Um jogo da cobrinha bem massinha. Teve uns bugzinhos que ocorreu que foram tão engraçados que salvei na pasta "bugados", recomendo ver.
 
 INFORMAÇÃO IMPORTANTE: O script constantes.py é necessário para o funcionamento do C.py. 
 
+![imagemC](https://github.com/budes/Exploracao-Tkinter/blob/main/Exemplos/C.png)
+
 # Exemplo D
 Uma calculadora simples, baseada na do Samsung J5, porque era a única que eu lembrei na hora.
+
+![imagemD](https://github.com/budes/Exploracao-Tkinter/blob/main/Exemplos/D.jpeg)
