@@ -7,7 +7,9 @@ Em resumo, queria testar interface gráfica com isso por ser algo bastante simpl
 # Exemplo A
 Um joguinho parecido com pong, de bater bola. 
 
-INFORMAÇÃO IMPORTANTE: O código está em .rar porque utilizei de imagem no background, e para ficar mais organizado, preferi upar dessse modo.
+INFORMAÇÃO IMPORTANTE: A imagem Estrelas deve estar na mesma pasta do código.
+
+![imagemA](https://github.com/budes/Exploracao-Tkinter/blob/main/Exemplos/A.png)
 
 # Exemplo B 
 Um toca música que utiliza dos bindings e da interface do tkinter, além do winsound.
