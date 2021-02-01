@@ -27,3 +27,8 @@ INFORMAÇÃO IMPORTANTE: O script constantes.py é necessário para o funcioname
 Uma calculadora simples, baseada na do Samsung J5, porque era a única que eu lembrei na hora.
 
 ![imagemD](https://github.com/budes/Exploracao-Tkinter/blob/main/Exemplos/D.jpeg)
+
+# Exemplo E
+Um programinha de fazer desenhos simples, baseado em retas que se baseiam na posição do cursor para serem criadas.
+
+![ImagemE](https://github.com/budes/Exploracao-Tkinter/blob/main/Exemplos/E.png)
